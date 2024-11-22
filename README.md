@@ -44,6 +44,8 @@ go mod tidy
 5. Once installed, run the application with:
 
 ```
+go run ./cmd/migrate/main.go
+
 go run ./cmd/seed/main.go
 
 go run ./cmd/app/main.go
