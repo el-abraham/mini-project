@@ -21,11 +21,11 @@ DB_URL="postgres://<username>:<password>@<host>:<port>/<database_name>?sslmode=d
 
 Replace:
 
-- <username>: Your PostgreSQL username (e.g., postgres).
-- <password>: Your PostgreSQL password.
-- <host>: The database host (e.g., localhost).
-- <port>: The database port (default: 5432).
-- <database_name>: The name of your database (e.g., mini-project).
+- `<username>`: Your PostgreSQL username (e.g., postgres).
+- `<password>`: Your PostgreSQL password.
+- `<host>`: The database host (e.g., localhost).
+- `<port>`: The database port (default: 5432).
+- `<database_name>`: The name of your database (e.g., mini-project).
 
 Example Configuration:
 
