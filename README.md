@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a simple food ordering application built using Golang (backend) and React (frontend). It allows users to browse, select, and order food items.This project is
+This is a simple food ordering application built using Golang (backend) and React (frontend). It allows users to browse, select, and order food items. 
 
 ## Technical Requirements
 
